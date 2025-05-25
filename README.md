@@ -1,4 +1,4 @@
-# Appraisal_automation
+# Appraisal_automatization
 sentences.csv -- dataset with annotated expressions from LOCNESS
 
-appraisal_automation.ipynb -- code
+appraisal_automatization(1).ipynb -- code
